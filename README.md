@@ -1,14 +1,14 @@
-# Hotel-Booking-Data-Analysis-Excel-
+# Hotel-Booking-Data-Analysis-Excel
 Excel project with data cleaning, analysis, and dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes hotel booking data to understand customer behavior, booking trends, and cancellation patterns.
 
 The dataset contains **119,390 records** of bookings for both City Hotels and Resort Hotels between 2015 and 2017.
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - Source: Kaggle
 - Records: 119,390 bookings
 - Time Period: July 2015 – August 2017
@@ -23,7 +23,7 @@ Each record includes:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze booking trends over time
 - Understand cancellation behavior
 - Compare City vs Resort hotels
@@ -32,7 +32,7 @@ Each record includes:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Excel
 - Power Query (Data Cleaning)
 - Pivot Tables
@@ -40,7 +40,7 @@ Each record includes:
 
 ---
 
-## 🔧 Data Cleaning
+##  Data Cleaning
 Performed using Power Query:
 - Removed null values
 - Eliminated duplicates
@@ -49,7 +49,7 @@ Performed using Power Query:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 The dashboard includes:
 - Total Bookings: 119,389
 - Total Cancellations: 44,229
@@ -66,23 +66,23 @@ Visualizations:
 
 ---
 
-## 📈 Key Insights
-- 📅 Bookings peak in **August** (vacation season)
-- 🌍 Majority customers are from **European countries**
-- 🏙️ **City Hotels** have more bookings than Resort Hotels
-- 👤 Most customers are **Transient**
-- ❌ **No-deposit bookings have higher cancellations**
+##  Key Insights
+-  Bookings peak in **August** (vacation season)
+-  Majority customers are from **European countries**
+-  **City Hotels** have more bookings than Resort Hotels
+-  Most customers are **Transient**
+-  **No-deposit bookings have higher cancellations**
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Encourage **non-refundable deposits** to reduce cancellations
 - Focus on **repeat customers**
 - Apply **seasonal pricing strategies**
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 - Used COUNT instead of SUM initially
 - Selected incorrect ranges in pivot tables
 - Misunderstood some columns at the beginning
@@ -91,12 +91,12 @@ These helped improve accuracy and understanding.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](dashboard/dashboard.png)
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates that data analysis is not just visualization, but understanding data patterns and making informed decisions.
 
 ---
