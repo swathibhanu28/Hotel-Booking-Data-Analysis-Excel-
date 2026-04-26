@@ -92,7 +92,7 @@ These helped improve accuracy and understanding.
 ---
 
 ##  Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
+[!image alt](https://github.com/swathibhanu28/Hotel-Booking-Data-Analysis-Excel-/blob/03e701422706416e2b953feb195298169e8697cc/hotel_booking_dashboard.png)
 
 ---
 
