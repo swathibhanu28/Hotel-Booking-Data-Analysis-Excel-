@@ -90,7 +90,7 @@ These helped improve accuracy and understanding.
 This project demonstrates that data analysis is not just visualization, but understanding data patterns and making informed decisions.
 
 
-## 📂 Project Files
+##  Project Files
 - Dataset (CSV)
 - Excel Analysis File
 - Dashboard Screenshot
