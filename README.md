@@ -6,7 +6,6 @@ This project analyzes hotel booking data to understand customer behavior, bookin
 
 The dataset contains **119,390 records** of bookings for both City Hotels and Resort Hotels between 2015 and 2017.
 
----
 
 ##  Dataset Information
 - Source: Kaggle
@@ -21,7 +20,6 @@ Each record includes:
 - Stay duration
 - Average Daily Rate (ADR)
 
----
 
 ##  Objectives
 - Analyze booking trends over time
@@ -30,7 +28,6 @@ Each record includes:
 - Identify customer distribution
 - Generate business insights
 
----
 
 ##  Tools & Technologies
 - Microsoft Excel
@@ -38,7 +35,6 @@ Each record includes:
 - Pivot Tables
 - Charts & Dashboard
 
----
 
 ##  Data Cleaning
 Performed using Power Query:
@@ -47,7 +43,6 @@ Performed using Power Query:
 - Corrected inconsistent data
 - Understood dataset columns using data dictionary
 
----
 
 ##  Dashboard Overview
 The dashboard includes:
@@ -64,7 +59,6 @@ Visualizations:
 - Customer Type Distribution
 - Top 10 Countries by Bookings
 
----
 
 ##  Key Insights
 -  Bookings peak in **August** (vacation season)
@@ -73,14 +67,12 @@ Visualizations:
 -  Most customers are **Transient**
 -  **No-deposit bookings have higher cancellations**
 
----
 
 ##  Business Recommendations
 - Encourage **non-refundable deposits** to reduce cancellations
 - Focus on **repeat customers**
 - Apply **seasonal pricing strategies**
 
----
 
 ##  Challenges Faced
 - Used COUNT instead of SUM initially
@@ -89,17 +81,14 @@ Visualizations:
 
 These helped improve accuracy and understanding.
 
----
 
 ##  Dashboard Preview
 [!image alt](https://github.com/swathibhanu28/Hotel-Booking-Data-Analysis-Excel-/blob/03e701422706416e2b953feb195298169e8697cc/hotel_booking_dashboard.png)
 
----
 
 ##  Conclusion
 This project demonstrates that data analysis is not just visualization, but understanding data patterns and making informed decisions.
 
----
 
 ## 📂 Project Files
 - Dataset (CSV)
